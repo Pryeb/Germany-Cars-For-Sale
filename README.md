@@ -14,5 +14,3 @@ distribution and characteristics of different vehicle groups.
 •To identify patterns and trends within the data that can inform marketing
 strategies, pricing decisions, and inventory management for automotive
 businesses.
-
-
